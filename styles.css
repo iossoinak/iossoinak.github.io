@@ -1,0 +1,164 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Header */
+
+
+/* nav */
+
+    nav li  {
+        display: inline;
+        text-decoration: none;
+        line-height:40px;
+        overflow: hidden;
+        padding:0;
+        margin:0;
+    }
+
+    nav a {
+        text-decoration: none;
+        color: black;
+        padding:0;
+        margin:0;
+        line-height:40px;
+    }
+
+    nav a:hover {
+        font-size: 24px;
+        color:red;
+        overflow: hidden;
+        line-height:40px;
+    }
+
+
+    section {
+        border: 1px solid black ;
+        margin: 10px;
+        border-radius: 15px;
+    }
+
+
+/* Colors */
+
+    h2 {
+        margin:30px;
+    }
+    .colors {
+        
+        
+        display: inline-block;
+        width:100%;
+        padding: 0px 40px 0px 0px;
+
+
+
+    }
+
+    .colors div {
+
+        width: 200px;
+        height: 100px;
+        text-align: center;
+        display: inline-block;
+        margin: 15px; 
+        
+
+    }
+    .color1 {
+        background-color: #242726;
+        color: white;
+        
+        
+
+    }
+
+    .color2 {
+        background-color: #886c5f;
+        color: white;
+        color: white;
+
+
+    }
+
+    .color3 {
+        background-color: #d04b18;
+        color: white;
+        color: white;
+    
+    }
+
+    .color4 {
+        background-color: #dfb24a;
+        color: white;
+        color: white;
+    
+    }
+
+    .color5 {
+        background-color: #d4c5aa;
+        color: #242726;
+    
+    }
+
+
+/* Fonts */
+
+.fonts {
+    
+    padding: 0px 40px 0px 10px;
+    overflow: hidden;
+    
+    width: 100%;
+    display: inline-block;
+    overflow: hidden;
+    margin: 15px;
+    
+    
+
+}
+
+
+
+.fonts h3 {
+    text-decoration: underline;
+}
+
+
+.font1 {
+    font-family: Helvetica;
+    display: inline-block;
+    margin: 20px;
+}
+
+.font2 {
+    font-family: 'Bebas Neue';
+    display: inline-block;
+    margin: 20px;
+}
+
+.font3 {
+    font-family: Roboto;
+    display: inline-block;
+    margin: 20px;
+}
+
+.fonts .italic {
+    font-style: italic;
+    
+}
+
+.fonts .bold {
+    font-weight: bold;
+    
+}
+
+
+/* Text Styles */
+
+.style {
+    padding: 0px 40px 0px 40px;
+    display: inline-block;
+    
+}
+
